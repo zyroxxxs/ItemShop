@@ -1,2 +1,12 @@
-# ItemShop
-i could have done this with my own server, but github is free.
+CID_217_Athena_Commando_M_Medic
+BID_109_MedicMale
+CID_216_Athena_Commando_F_Medic
+BID_110_MedicFemale
+Pickaxe_ID_093_Medic
+na
+CID_328_Athena_Commando_F_Tennis
+Pickaxe_ID_224_Butterfly
+EID_Fresh
+CID_016_Athena_Commando_F
+Pickaxe_ID_140_StreetGoth
+EID_Flex
