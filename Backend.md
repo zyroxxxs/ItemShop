@@ -1,57 +1,42 @@
 {
   "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": ["AthenaCharacter:CID_616_Athena_Commando_F_CavalryBandit"],
+    "price": 1200
+  },
+  "daily2": {
+    "itemGrants": ["AthenaDance:EID_Pizzatime"],
+    "price": 200
+  },
+  "daily3": {
+    "itemGrants": ["AthenaDance:EID_DivinePose"],
+    "price": 200
+  },
+  "daily4": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_092_Bling"],
+    "price": 500
+  },
+  "daily5": {
+    "itemGrants": ["AthenaItemWrap:Wrap_182_NeonAnimal"],
+    "price": 500
+  },
+  "daily6": {
+    "itemGrants": ["AthenaCharacter:CID_752_Athena_Commando_M_Comet"],
+    "price": 1200
+  },
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_217_Athena_Commando_M_Medic","AthenaBackpack:BID_109_MedicMale"
+      "AthenaCharacter:CID_639_Athena_Commando_F_NeonAnimal","AthenaBackpack:BID_434_NeonAnimalFemale"
     ],
     "price": 1500
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_216_Athena_Commando_F_Medic","AthenaBackpack:BID_110_MedicFemale"
-    ],
-    "price": 1500
-  },
-  "featured3": {
-    "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_093_Medic"
-    ],
-    "price": 800
-  },
-  "daily1": {
-    "itemGrants": [
-      "AthenaCharacter:CID_328_Athena_Commando_F_Tennis","AthenaBackpack:BID_204_TennisFemale"
-    ],
+      "AthenaDance:EID_Rotisserie_Beyond"],
     "price": 1200
   },
-  "daily2": {
-    "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
-    ],
-    "price": 800
-  },
-  "daily3": {
-    "itemGrants": [
-      "AthenaDance:EID_Fresh"
-    ],
-    "price": 600
-  },
-  "daily4": {
-    "itemGrants": [
-      "AthenaCharacter:CID_016_Athena_Commando_F"
-    ],
-    "price": 800
-  },
-  "daily5": {
-    "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_140_StreetGoth"
-    ],
-    "price": 800
-  },
-  "daily6": {
-    "itemGrants": [
-      "AthenaDance:EID_Flex"
-    ],
-    "price": 200
+  "featured3": {
+    "itemGrants": ["AthenaCharacter:CID_638_Athena_Commando_M_NeonAnimal","AthenaBackpack:BID_433_NeonAnimal"
+    "price": 1500
   }
 }
