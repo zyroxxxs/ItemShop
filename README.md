@@ -1,12 +1,12 @@
-CID_505_Athena_Commando_M_MilitiaMascotBurger, 400
-BID_336_MascotMilitiaBurger, 400
-EID_Rotisserie_Beyond, 400
-Pickaxe_ID_251_MascotMilitiaBurger, 400
+CID_505_Athena_Commando_M_MilitiaMascotBurger, 1500
+BID_336_MascotMilitiaBurger
+EID_Rotisserie_Beyond, 1200
+Pickaxe_ID_251_MascotMilitiaBurger, 800
 na
 na
-CID_616_Athena_Commando_F_CavalryBandit, 400
-EID_Pizzatime, 400
-EID_DivinePose, 400
-Pickaxe_ID_092_Bling, 400
-Wrap_077_StormSoldier, 400
-CID_752_Athena_Commando_M_Comet, 400
+CID_616_Athena_Commando_F_CavalryBandit, 1200
+EID_Pizzatime, 200
+EID_DivinePose, 200
+Pickaxe_ID_092_Bling, 500
+Wrap_077_StormSoldier, 500
+CID_752_Athena_Commando_M_Comet, 1200
