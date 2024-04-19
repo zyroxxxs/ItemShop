@@ -36,7 +36,7 @@
     "price": 1200
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_638_Athena_Commando_M_NeonAnimal","AthenaBackpack:BID_433_NeonAnimal"
+    "itemGrants": ["AthenaCharacter:CID_638_Athena_Commando_M_NeonAnimal","AthenaBackpack:BID_433_NeonAnimal"],
     "price": 1500
   }
 }
