@@ -1,4 +1,4 @@
-CID_639_Athena_Commando_F_NeonAnimal, 1500
+CID_639_Athena_Commando_F_NeonAnimal, 150
 BID_433_NeonAnimal
 EID_Rotisserie_Beyond, 1200
 CID_638_Athena_Commando_M_NeonAnimal, 1500
