@@ -1,12 +1,12 @@
-EID_SpeedDial_Beyond, 1200
-Pickaxe_ID_015_HolidayCandyCane, 1200
-CID_065_Athena_Commando_F_SkiGirl_FRA, 1500
+EID_Ringer_Beyond, 1200
+CID_028_Athena_Commando_F, 300000
+CID_517_Athena_Commando_M_DarkEagleFire, 1500
+BID_347_DarkEagleFire
 na
 na
-na
-CID_365_Athena_Commando_M_LuckyRider, 1500
-EID_KungFuShadowBoxing, 200
-BID_229_LuckyRiderMale, 500
-Pickaxe_ID_014_WinterCamo, 500
-Wrap_077_StormSoldier, 500
-mbrella_Season_09, 200
+CID_655_Athena_Commando_F_Barefoot, 1200
+EID_EgyptianDance, 200
+CID_606_Athena_Commando_F_JetSki, 1200
+Pickaxe_Lockjaw, 200000
+Wrap_234_GlowVortex, 500
+Umbrella_Season_04, 200
