@@ -8,5 +8,5 @@ CID_655_Athena_Commando_F_Barefoot, 1200
 EID_EgyptianDance, 200
 CID_606_Athena_Commando_F_JetSki, 1200
 Pickaxe_Lockjaw, 200000
-Wrap_234_GlowVortex, 500
+Wrap_237_NeonPulse, 500
 Umbrella_Season_04, 200
