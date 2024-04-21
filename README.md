@@ -1,12 +1,12 @@
-EID_Ringer_Beyond, 1200
-CID_028_Athena_Commando_F, 300000
-CID_517_Athena_Commando_M_DarkEagleFire, 1500
-BID_347_DarkEagleFire
+EID_7Rings_Beyond, 1200
+CID_717_Athena_Commando_F_BlueFlames, 1200
+CID_716_Athena_Commando_M_BlueFlames, 1200
 na
 na
-CID_655_Athena_Commando_F_Barefoot, 1200
-EID_EgyptianDance, 200
-CID_606_Athena_Commando_F_JetSki, 1200
-Pickaxe_Lockjaw, 200000
-Wrap_237_NeonPulse, 500
-Umbrella_Season_04, 200
+na
+CID_546_Athena_Commando_F_TacticalRed, 800
+EID_IndigoApple, 500
+CID_539_Athena_Commando_F_StreetGothCandy, 1200
+Pickaxe_ID_294_CandyCane, 2000
+Wrap_078_SlurpJuice, 800
+Umbrella_Season_10, 500
