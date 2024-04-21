@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_655_Athena_Commando_F_Barefoot"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_546_Athena_Commando_F_TacticalRed"],
+    "price": 800
   },
   "daily2": {
-    "itemGrants": ["AthenaDance:EID_EgyptianDance"],
+    "itemGrants": ["AthenaDance:EID_IndigoApple"],
     "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaCharacter:CID_606_Athena_Commando_F_JetSki"],
+    "itemGrants": ["AthenaCharacter:CID_539_Athena_Commando_F_StreetGothCandy"],
     "price": 1200
   },
   "daily4": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_Lockjaw"],
-    "price": 200000
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_294_CandyCane"],
+    "price": 2000
   },
   "daily5": {
-    "itemGrants": ["AthenaItemWrap:Wrap_237_NeonPulse"],
-    "price": 500
+    "itemGrants": ["AthenaItemWrap:Wrap_078_SlurpJuice"],
+    "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaGlider:Umbrella_Season_04"],
-    "price": 200
+    "itemGrants": ["AthenaGlider:Umbrella_Season_10"],
+    "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaDance:EID_Ringer_Beyond"],
+    "itemGrants": ["AthenaDance:EID_7Rings_Beyond"],
     "price": 1200
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_028_Athena_Commando_F"],
-    "price": 300000
+    "itemGrants": ["AthenaCharacter:CID_717_Athena_Commando_F_BlueFlames"],
+    "price": 1200
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_517_Athena_Commando_M_DarkEagleFire","AthenaBackpack:BID_347_DarkEagleFire"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_716_Athena_Commando_M_BlueFlames"],
+    "price": 1200
   }
 }
