@@ -5,7 +5,7 @@ na
 na
 na
 CID_663_Athena_Commando_F_Frogman, 800
-EID_IndigoApple, 500
+EID_TakeTheW, 500
 CID_471_Athena_Commando_F_Bani, 1200
 Pickaxe_ID_190_GolfClub, 500
 Wrap_167_Mastermind, 500
