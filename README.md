@@ -1,12 +1,12 @@
-EID_7Rings_Beyond, 1200
-CID_717_Athena_Commando_F_BlueFlames, 1200
-CID_716_Athena_Commando_M_BlueFlames, 1200
+na
+CID_625_Athena_Commando_F_PinkTrooper, 1200
+CID_626_Athena_Commando_M_PinkTrooper, 1200
 na
 na
 na
-CID_546_Athena_Commando_F_TacticalRed, 800
+CID_663_Athena_Commando_F_Frogman, 800
 EID_IndigoApple, 500
-CID_539_Athena_Commando_F_StreetGothCandy, 1200
-Pickaxe_ID_294_CandyCane, 2000
-Wrap_078_SlurpJuice, 800
-Umbrella_Season_10, 500
+CID_471_Athena_Commando_F_Bani, 1200
+Pickaxe_ID_190_GolfClub, 500
+Wrap_167_Mastermind, 500
+Glider_ID_009_CandyCoat, 800
