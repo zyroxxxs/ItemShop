@@ -6,7 +6,7 @@ na
 na
 CID_586_Athena_Commando_F_PunkDevil, 1200
 EID_BlackMondayMale_E0VSB, 300
-CID_471_Athena_Commando_F_Bani, 1200
+CID_594_Athena_Commando_F_SoccerZombieB, 1200
 Pickaxe_ID_179_StarWand, 800
-Wrap_167_Mastermind, 500
+BID_362_BlackMondayHouston_2I53G, 500
 Glider_ID_176_BlackMondayCape_4P79K, 1200
