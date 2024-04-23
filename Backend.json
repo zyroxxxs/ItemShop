@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_663_Athena_Commando_F_Frogman"],
-    "price": 800
+    "itemGrants": ["AthenaCharacter:CID_452_Athena_Commando_F_CyberFu"],
+    "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaDance:EID_TakeTheW"],
-    "price": 500
+    "itemGrants": ["AthenaDance:EID_BlackMondayMale_E0VSB"],
+    "price": 300
   },
   "daily3": {
-    "itemGrants": ["AthenaCharacter:CID_471_Athena_Commando_F_Bani"],
+    "itemGrants": ["AthenaCharacter:CID_594_Athena_Commando_F_SoccerZombieB"],
     "price": 1200
   },
   "daily4": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_190_GolfClub"],
-    "price": 500
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
+    "price": 800
   },
   "daily5": {
-    "itemGrants": ["AthenaItemWrap:Wrap_167_Mastermind"],
+    "itemGrants": ["AthenaBackpack:BID_362_BlackMondayHouston_2I53G"],
     "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaGlider:Glider_ID_009_CandyCoat"],
-    "price": 800
+    "itemGrants": ["AthenaGlider:Glider_ID_176_BlackMondayCape_4P79K"],
+    "price": 1200
   },
   "featured1": {
-    "itemGrants": ["AthenaDance:EID_7Rings_Beyond"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_704_Athena_Commando_F_LollipopTrickster"],
+    "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_625_Athena_Commando_F_PinkTrooper"],
-    "price": 1200
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
+    "price": 800
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_626_Athena_Commando_M_PinkTrooper"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"],
+    "price": 1500
   }
 }
