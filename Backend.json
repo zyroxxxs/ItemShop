@@ -1,39 +1,58 @@
 {
-  "//": "BR Item Shop Config",
-  "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_452_Athena_Commando_F_CyberFu"],
-    "price": 1200
-  },
-  "daily2": {
-    "itemGrants": ["AthenaDance:EID_BlackMondayMale_E0VSB"],
-    "price": 300
-  },
-  "daily3": {
-    "itemGrants": ["AthenaCharacter:CID_594_Athena_Commando_F_SoccerZombieB"],
-    "price": 1200
-  },
-  "daily4": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
-    "price": 800
-  },
-  "daily5": {
-    "itemGrants": ["AthenaBackpack:BID_362_BlackMondayHouston_2I53G"],
-    "price": 500
-  },
-  "daily6": {
-    "itemGrants": ["AthenaGlider:Glider_ID_176_BlackMondayCape_4P79K"],
-    "price": 1200
-  },
-  "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_704_Athena_Commando_F_LollipopTrickster"],
-    "price": 1500
-  },
-  "featured2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
-    "price": 800
-  },
-  "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"],
-    "price": 1500
-  }
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
+        ],
+        "price": 800
+    },
+    "daily2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_335_Athena_Commando_F_Scrapyard", "AthenaBackpack:BID_206_ScrapyardFemale"
+        ],
+        "price": 1200
+    },
+    "daily3": {
+        "itemGrants": [
+            "AthenaDance:EID_KPopDance02"
+        ],
+        "price": 800
+    },
+    "daily4": {
+        "itemGrants": [
+            "AthenaItemWrap:Wrap_097_NeonLines"
+        ],
+        "price": 300
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaGlider:Glider_ID_118_Squishy"
+        ],
+        "price": 300
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaCharacter:CID_087_Athena_Commando_F_RedSilk"
+        ],
+        "price": 800
+    },
+    "featured1": {
+        "itemGrants": [
+            "AthenaCharacter:CID_472_Athena_Commando_F_CyberKarate", "AthenaBackpack:BID_308_CyberKarateFemale"
+        ],
+        "price": 1200
+    },
+    "featured2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_473_Athena_Commando_M_CyberKarate", "AthenaBackpack:BID_309_CyberKarateMale"
+        ],
+        "price": 1500
+    },
+    "featured3": {
+        "itemGrants": [
+            "AthenaDance:EID_Repetition_Beyond"
+        ],
+        "price": 1200
+    }
+}
 }
