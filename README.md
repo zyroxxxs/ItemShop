@@ -4,7 +4,7 @@ CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
 na
 na
 na
-CID_586_Athena_Commando_F_PunkDevil, 1200
+CID_452_Athena_Commando_F_CyberFu, 1200
 EID_BlackMondayMale_E0VSB, 300
 CID_594_Athena_Commando_F_SoccerZombieB, 1200
 Pickaxe_ID_179_StarWand, 800
