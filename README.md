@@ -1,12 +1,12 @@
+CID_704_Athena_Commando_F_LollipopTrickster, 1500
+Pickaxe_ID_363_LollipopTricksterFemale, 800
+CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
 na
-CID_625_Athena_Commando_F_PinkTrooper, 1200
-CID_626_Athena_Commando_M_PinkTrooper, 1200
 na
 na
-na
-CID_663_Athena_Commando_F_Frogman, 800
-EID_TakeTheW, 500
+CID_586_Athena_Commando_F_PunkDevil, 1200
+EID_BlackMondayMale_E0VSB, 300
 CID_471_Athena_Commando_F_Bani, 1200
-Pickaxe_ID_190_GolfClub, 500
+Pickaxe_ID_179_StarWand, 800
 Wrap_167_Mastermind, 500
-Glider_ID_009_CandyCoat, 800
+Glider_ID_176_BlackMondayCape_4P79K, 1200
