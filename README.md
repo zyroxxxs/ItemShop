@@ -1,12 +1,12 @@
-CID_704_Athena_Commando_F_LollipopTrickster, 1200
-CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
-Pickaxe_ID_363_LollipopTricksterFemale, 800
+CID_137_Athena_Commando_F_StreetBasketball, 1200
+CID_136_Athena_Commando_M_StreetBasketball, 1200
+Pickaxe_ID_058_Basketball, 800
 na
 na
 na
-CID_452_Athena_Commando_F_CyberFu, 1200
-Pickaxe_ID_179_StarWand, 800
-EID_FancyWorkout, 500
-EID_Zombie, 800
-Wrap_024_StealthBlack, 300
-Umbrella_Season_06, 300
+CID_577_Athena_Commando_F_CODSquadPlaid, 1200
+Pickaxe_ID_055_Stop, 800
+EID_PogoTraversal, 800
+EID_EngagedWalk, 200
+Wrap_144_Sakura, 500
+Glider_ID_095_Witch, 1200
