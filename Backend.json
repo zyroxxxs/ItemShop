@@ -2,55 +2,55 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_179_StarWand"
-        ],
-        "price": 800
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaCharacter:CID_452_Athena_Commando_F_CyberFu", "AthenaBackpack:BID_292_CyberFuFemale"
+            "AthenaCharacter:CID_577_Athena_Commando_F_CODSquadPlaid"
         ],
         "price": 1200
     },
-    "daily3": {
+    "daily2": {
         "itemGrants": [
-            "AthenaDance:EID_FancyWorkout"
+            "AthenaPickaxe:Pickaxe_ID_055_Stop"
         ],
         "price": 500
     },
+    "daily3": {
+        "itemGrants": [
+            "AthenaDance:EID_PogoTraversal"
+        ],
+        "price": 800
+    },
     "daily4": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_024_StealthBlack"
+            "AthenaItemWrap:EID_EngagedWalk"
         ],
         "price": 300
     },
     "daily5": {
         "itemGrants": [
-            "AthenaGlider:Umbrella_Season_06"
+            "AthenaItemWrap:Wrap_144_Sakura"
         ],
         "price": 300
     },
     "daily6": {
         "itemGrants": [
-            "AthenaDance:EID_Zombie"
+            "AthenaGlider:Glider_ID_095_Witch"
         ],
-        "price": 800
+        "price": 1200
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_704_Athena_Commando_F_LollipopTrickster"
+            "AthenaCharacter:CID_137_Athena_Commando_F_StreetBasketball"
         ],
         "price": 1200
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J", "AthenaBackpack:BID_361_BlackMondayFemale_R0P2N", "AthenaGlider:Glider_ID_177_BlackMondayFemale_HO3A9"
+            "AthenaCharacter:CID_136_Athena_Commando_M_StreetBasketball"
         ],
         "price": 1500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"
+            "AthenaPickaxe:Pickaxe_ID_058_Basketball"
         ],
         "price": 800
     }
