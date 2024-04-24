@@ -1,12 +1,12 @@
-CID_137_Athena_Commando_F_StreetBasketball, 1200
-CID_136_Athena_Commando_M_StreetBasketball, 1200
-Pickaxe_ID_058_Basketball, 800
-na
-na
-na
+EID_Bunnyhop, 1200
 CID_577_Athena_Commando_F_CODSquadPlaid, 1200
-Pickaxe_ID_055_Stop, 800
-EID_PogoTraversal, 800
-EID_EngagedWalk, 200
-Wrap_144_Sakura, 500
-Glider_ID_095_Witch, 1200
+CID_576_Athena_Commando_M_CODSquadPlaid, 1000
+na
+na
+na
+CID_734_Athena_Commando_F_BannerRed, 800
+EID_ChickenMoves, 500
+CID_684_Athena_Commando_F_DragonRacer, 1200
+Pickaxe_ID_179_StarWand, 800
+Wrap_102_WorldCup2019, 500
+Glider_ID_028_Googly, 600
