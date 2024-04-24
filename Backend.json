@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
+            "AthenaPickaxe:Pickaxe_ID_179_StarWand"
         ],
         "price": 800
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_335_Athena_Commando_F_Scrapyard", "AthenaBackpack:BID_206_ScrapyardFemale"
+            "AthenaCharacter:CID_452_Athena_Commando_F_CyberFu", "AthenaBackpack:BID_292_CyberFuFemale"
         ],
         "price": 1200
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_KPopDance02"
+            "AthenaDance:EID_FancyWorkout"
         ],
-        "price": 800
+        "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_097_NeonLines"
+            "AthenaItemWrap:Wrap_024_StealthBlack"
         ],
         "price": 300
     },
     "daily5": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
+            "AthenaGlider:Umbrella_Season_06"
         ],
         "price": 300
     },
     "daily6": {
         "itemGrants": [
-            "AthenaCharacter:CID_087_Athena_Commando_F_RedSilk"
+            "AthenaDance:EID_Zombie"
         ],
         "price": 800
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_472_Athena_Commando_F_CyberKarate", "AthenaBackpack:BID_308_CyberKarateFemale"
+            "AthenaCharacter:CID_704_Athena_Commando_F_LollipopTrickster"
         ],
         "price": 1200
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_473_Athena_Commando_M_CyberKarate", "AthenaBackpack:BID_309_CyberKarateMale"
+            "AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J", "AthenaBackpack:BID_361_BlackMondayFemale_R0P2N", "AthenaGlider:Glider_ID_177_BlackMondayFemale_HO3A9"
         ],
         "price": 1500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaDance:EID_Repetition_Beyond"
+            "AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"
         ],
-        "price": 1200
+        "price": 800
     }
 }
