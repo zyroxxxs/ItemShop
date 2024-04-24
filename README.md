@@ -7,6 +7,6 @@ na
 CID_734_Athena_Commando_F_BannerRed, 800
 EID_ChickenMoves, 500
 CID_684_Athena_Commando_F_DragonRacer, 1200
-Pickaxe_ID_179_StarWand, 800
+Pickaxe_ID_263_JonesyCube, 800
 Wrap_102_WorldCup2019, 500
 Glider_ID_028_Googly, 600
