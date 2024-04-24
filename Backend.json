@@ -1,57 +1,39 @@
 {
-    "//": "BR Item Shop Config",
-    "daily1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_577_Athena_Commando_F_CODSquadPlaid"
-        ],
-        "price": 1200
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_055_Stop"
-        ],
-        "price": 500
-    },
-    "daily3": {
-        "itemGrants": [
-            "AthenaDance:EID_PogoTraversal"
-        ],
-        "price": 800
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaItemWrap:EID_EngagedWalk"
-        ],
-        "price": 300
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaItemWrap:Wrap_144_Sakura"
-        ],
-        "price": 300
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaGlider:Glider_ID_095_Witch"
-        ],
-        "price": 1200
-    },
-    "featured1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_137_Athena_Commando_F_StreetBasketball"
-        ],
-        "price": 1200
-    },
-    "featured2": {
-        "itemGrants": [
-            "AthenaCharacter:CID_136_Athena_Commando_M_StreetBasketball"
-        ],
-        "price": 1500
-    },
-    "featured3": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_058_Basketball"
-        ],
-        "price": 800
-    }
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": ["AthenaCharacter:CID_734_Athena_Commando_F_BannerRed"],
+    "price": 800
+  },
+  "daily2": {
+    "itemGrants": ["AthenaDance:EID_ChickenMoves"],
+    "price": 500
+  },
+  "daily3": {
+    "itemGrants": ["AthenaCharacter:CID_684_Athena_Commando_F_DragonRacer"],
+    "price": 1200
+  },
+  "daily4": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
+    "price": 800
+  },
+  "daily5": {
+    "itemGrants": ["AthenaItemWrap:Wrap_102_WorldCup2019"],
+    "price": 500
+  },
+  "daily6": {
+    "itemGrants": ["AthenaGlider:Glider_ID_028_Googly"],
+    "price": 600
+  },
+  "featured1": {
+    "itemGrants": ["AthenaDance:EID_Bunnyhop"],
+    "price": 1200
+  },
+  "featured2": {
+    "itemGrants": ["AthenaCharacter:CID_577_Athena_Commando_F_CODSquadPlaid"],
+    "price": 1200
+  },
+  "featured3": {
+    "itemGrants": ["AthenaCharacter:CID_576_Athena_Commando_M_CODSquadPlaid"],
+    "price": 1000
+  }
 }
