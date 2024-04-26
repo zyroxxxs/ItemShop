@@ -1,7 +1,7 @@
 CID_434_Athena_Commando_F_StealthHonor, 3000
-BID_256_ShatterFly 
+BID_256_ShatterFly
 Pickaxe_ID_294_CandyCane, 1500
-na
+EID_CycloneHeadBang, 100
 na
 na
 CID_697_Athena_Commando_F_GraffitiFuture, 600
