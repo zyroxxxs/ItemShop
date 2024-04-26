@@ -1,5 +1,5 @@
 CID_703_Athena_Commando_M_Cyclone, 1000
-BID_468_Cyclone, Bundle
+BID_468_Cyclone
 CID_761_Athena_Commando_M_CycloneSpace, 1000
 Pickaxe_ID_359_CycloneMale, 500
 EID_Cyclone, 0
