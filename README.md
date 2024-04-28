@@ -1,12 +1,12 @@
-CID_703_Athena_Commando_M_Cyclone, 1000
-BID_468_Cyclone
-CID_761_Athena_Commando_M_CycloneSpace, 1000
-Pickaxe_ID_359_CycloneMale, 500
-EID_Cyclone, 0
+CID_515_Athena_Commando_M_BarbequeLarry, 1500
+PetCarrier_013_BbqLarry
+Pickaxe_ID_265_BarbequeLarry1H, 600
+Wrap_132_BarbequeLarry, 300
 na
-CID_298_Athena_Commando_F_IceMaiden, 1200
-CID_220_Athena_Commando_F_Clown, 500
-Pickaxe_ID_363_LollipopTricksterFemale, 500
-EID_AfroHouse, 400
-EID_TakeTheL, 1000
-Glider_ID_201_TNTinaFemale, 500
+na
+HalloweenScythe, 1000
+CID_452_Athena_Commando_F_CyberFu, 1200
+EID_JanuaryBop_Beyond, 1000
+Wrap_024_StealthBlack, 300
+BID_220_FarmerFemale, 300
+EID_JumpStyleDance, 800
