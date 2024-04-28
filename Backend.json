@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaPickaxe:HalloweenScythe"
+            "AthenaPickaxe:HappyPickaxe"
         ],
-        "price": 1000
+        "price": 500
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_452_Athena_Commando_F_CyberFu", "AthenaBackpack:BID_292_CyberFuFemale"
+            "AthenaCharacter:CID_315_Athena_Commando_M_TeriyakiFish", "AthenaBackpack:BID_193_TeriyakiFishMale"
         ],
-        "price": 1200
+        "price": 900
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_JanuaryBop_Beyond"
+            "AthenaDance:EID_TourBus"
         ],
-        "price": 1000
+        "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_024_StealthBlack"
+            "AthenaGlider:Glider_ID_110_TeriyakiFish"
         ],
-        "price": 300
+        "price": 700
     },
     "daily5": {
         "itemGrants": [
-            "AthenaBackpack:BID_256_ShatterFly"
-        ],
-        "price": 300
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaDance:EID_JumpStyleDance"
+            "AthenaCharacter:CID_397_Athena_Commando_F_TreasureHunterFashion"
         ],
         "price": 800
     },
+    "daily6": {
+        "itemGrants": [
+            "AthenaDance:EID_Twist"
+        ],
+        "price": 400
+    },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_515_Athena_Commando_M_BarbequeLarry", "AthenaBackpack:PetCarrier_013_BbqLarry"
+            "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "AthenaBackpack:BID_030_TacticalRogue"
         ],
-        "price": 1500
+        "price": 1200
     },
     "featured2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_265_BarbequeLarry1H"
+            "AthenaPickaxe:Pickaxe_ID_029_Assassin"
         ],
-        "price": 600
+        "price": 800
     },
     "featured3": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_132_BarbequeLarry"
+            "AthenaGlider:Glider_ID_017_Assassin"
         ],
-        "price": 300
+        "price": 600
     }
 }
