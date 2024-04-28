@@ -1,12 +1,12 @@
-CID_515_Athena_Commando_M_BarbequeLarry, 1500
-PetCarrier_013_BbqLarry
-Pickaxe_ID_265_BarbequeLarry1H, 600
-Wrap_132_BarbequeLarry, 300
+CID_083_Athena_Commando_F_Tactical, 1200
+BID_030_TacticalRogue
+Pickaxe_ID_029_Assassin, 800
+Glider_ID_017_Assassin, 600
 na
 na
-HalloweenScythe, 1000
-CID_452_Athena_Commando_F_CyberFu, 1200
-EID_JanuaryBop_Beyond, 1000
-Wrap_024_StealthBlack, 300
-BID_220_FarmerFemale, 300
-EID_JumpStyleDance, 800
+CID_397_Athena_Commando_F_TreasureHunterFashion, 800
+CID_315_Athena_Commando_M_TeriyakiFish, 900
+EID_TourBus, 500
+EID_Twist, 400
+Glider_ID_110_TeriyakiFish, 700
+HappyPickaxe, 500
