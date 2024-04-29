@@ -9,3 +9,4 @@ CID_170_Athena_Commando_F_Luchador, 1200
 Glider_ID_110_TeriyakiFish, 800
 Wrap_182_NeonAnimal, 500
 EID_TaiChi, 500
+na
