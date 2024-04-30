@@ -1,35 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_197_Athena_Commando_F_Biker","AthenaBackpack:BID_097_BikerFemale"],
+    "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_143_FlintlockWinter"],
-    "price": 800
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_014_WinterCamo"],
+    "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaCharacter:CID_333_Athena_Commando_M_Squishy"],
-    "price": 1500
+    "itemGrants": ["AthenaGlider:Glider_ID_095_Witch"],
+    "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaGlider:Glider_ID_106_FortniteDJ"],
+    "itemGrants": ["AthenaCharacter:CID_414_Athena_Commando_F_MilitaryFashion"],
     "price": 800
   },
   "daily5": {
-    "itemGrants": ["AthenaDance:EID_SkeletonDance"],
-    "price": 500
-  },
-  "daily6": {
-    "itemGrants": ["AthenaBackPack:BID_229_LuckyRiderMale"],
-    "price": 0
-  },
-  "featured1": {
-    "itemGrants": ["AthenaCharacter:CCID_075_Athena_Commando_F_Stripe"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_140_StreetGoth"],
     "price": 800
   },
+  "daily6": {
+    "itemGrants": ["AthenaDance:EID_Ringer_Beyond"],
+    "price": 1000
+  },
+  "featured1": {
+    "itemGrants": ["AthenaCharacter:CID_061_Athena_Commando_F_SkiGirl","AthenaBackpack:BID_014_SkiGirl"],
+    "price": 1500
+  },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_365_Athena_Commando_M_LuckyRider"],
+    "itemGrants": ["AthenaCharacter:CID_067_Athena_Commando_F_SkiGirl_CHN","AthenaBackpack:BID_020_SkiGirl_CHN"],
+    "price": 1500
+  },
+  "featured3": {
+    "itemGrants": ["AthenaCharacter:CID_065_Athena_Commando_F_SkiGirl_FRA","AthenaBackpack:BID_010_SkiDude_FRA"],
     "price": 1500
   }
 }
