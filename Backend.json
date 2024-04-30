@@ -1,35 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_688_Athena_Commando_F_AgentRogue", "AthenaBackpack:BID_476_AgentRogue"],
+    "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_143_FlintlockWinter"],
-    "price": 800
+    "itemGrants": ["AthenaGlider:Glider_ID_092_StreetOps"],
+    "price": 1000
   },
   "daily3": {
-    "itemGrants": ["AthenaCharacter:CID_333_Athena_Commando_M_Squishy"],
-    "price": 1500
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
+    "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaGlider:Glider_ID_106_FortniteDJ"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_SpeedDial_Beyond"],
+    "price": 1200
   },
   "daily5": {
-    "itemGrants": ["AthenaDance:EID_SkeletonDance"],
-    "price": 500
+    "itemGrants": ["AthenaCharacter:CID_748_Athena_Commando_F_Hitman", "AthenaBackpack:BID_518_HitmanCase"],
+    "price": 1500
   },
   "daily6": {
-    "itemGrants": ["AthenaBackPack:BID_229_LuckyRiderMale"],
-    "price": 0
+    "itemGrants": ["AthenaItemWrap:Wrap_199_AgentAce"],
+    "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CCID_075_Athena_Commando_F_Stripe"],
-    "price": 800
+    "itemGrants": ["AthenaCharacter:CID_259_Athena_Commando_M_StreetOps", "AthenaBackpack:BID_140_StreetOpsMale"],
+    "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_365_Athena_Commando_M_LuckyRider"],
+    "itemGrants": ["AthenaCharacter:CID_260_Athena_Commando_F_StreetOps", "BID_141_StreetOpsFemale"],
     "price": 1500
+  },
+  "featured3": {
+    "itemGrants": ["AthenaDance:EID_IceKing"],
+    "price": 1000
   }
 }
