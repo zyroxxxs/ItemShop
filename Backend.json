@@ -31,9 +31,5 @@
   "featured2": {
     "itemGrants": ["AthenaCharacter:CID_365_Athena_Commando_M_LuckyRider"],
     "price": 1500
-  },
-  "featured3": {
-    "itemGrants": ["AthenaDance:EID_BasketballV2"],
-    "price": 500
   }
 }
