@@ -1,12 +1,12 @@
-CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
-CID_333_Athena_Commando_M_Squishy, 1500
-EID_BasketballV2, 500
+CID_688_Athena_Commando_F_AgentRogue, 1200
+CID_748_Athena_Commando_F_Hitman, 1500
+EID_SpeedDial_Beyond, 1200
 na
 na
 na
-CID_075_Athena_Commando_F_Stripe, 800
-Pickaxe_ID_143_FlintlockWinter, 800
-CID_365_Athena_Commando_M_LuckyRider, 500
-Glider_ID_106_FortniteDJ, 800
-BID_229_LuckyRiderMale, 0
-EID_SkeletonDance, 500
+CID_259_Athena_Commando_M_StreetOps, 1500
+Pickaxe_ID_179_StarWand, 1000
+Glider_ID_092_StreetOps, 1000
+CID_260_Athena_Commando_F_StreetOps, 1500
+Wrap_199_AgentAce, 500
+EID_IceKing, 1000
