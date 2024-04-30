@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_688_Athena_Commando_F_AgentRogue", "AthenaBackpack:BID_476_AgentRogue"],
+    "itemGrants": ["AthenaCharacter:CID_197_Athena_Commando_F_Biker","AthenaBackpack:BID_097_BikerFemale"],
     "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaGlider:Glider_ID_092_StreetOps"],
-    "price": 1000
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_014_WinterCamo"],
+    "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
+    "itemGrants": ["AthenaGlider:Glider_ID_095_Witch"],
     "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaDance:EID_SpeedDial_Beyond"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_414_Athena_Commando_F_MilitaryFashion"],
+    "price": 800
   },
   "daily5": {
-    "itemGrants": ["AthenaCharacter:CID_748_Athena_Commando_F_Hitman", "AthenaBackpack:BID_518_HitmanCase"],
-    "price": 1500
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_140_StreetGoth"],
+    "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaItemWrap:Wrap_199_AgentAce"],
-    "price": 500
+    "itemGrants": ["AthenaDance:EID_Ringer_Beyond"],
+    "price": 1000
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_259_Athena_Commando_M_StreetOps", "AthenaBackpack:BID_140_StreetOpsMale"],
+    "itemGrants": ["AthenaCharacter:CID_061_Athena_Commando_F_SkiGirl","AthenaBackpack:BID_014_SkiGirl"],
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_260_Athena_Commando_F_StreetOps", "BID_141_StreetOpsFemale"],
+    "itemGrants": ["AthenaCharacter:CID_067_Athena_Commando_F_SkiGirl_CHN","AthenaBackpack:BID_020_SkiGirl_CHN"],
     "price": 1500
   },
-  "featured3": {
-    "itemGrants": ["AthenaDance:EID_IceKing"],
-    "price": 1000
+   "featured3": {
+    "itemGrants": ["AthenaCharacter:CID_065_Athena_Commando_F_SkiGirl_FRA","AthenaBackpack:BID_010_SkiDude_FRA"],
+    "price": 1500
   }
 }
