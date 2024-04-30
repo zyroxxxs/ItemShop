@@ -1,12 +1,12 @@
-CID_688_Athena_Commando_F_AgentRogue, 1200
-CID_748_Athena_Commando_F_Hitman, 1500
-EID_SpeedDial_Beyond, 1200
+CID_061_Athena_Commando_F_SkiGirl, 1500
+CID_067_Athena_Commando_F_SkiGirl_CHN, 1500
+CID_065_Athena_Commando_F_SkiGirl_FRA, 1500
 na
 na
 na
-CID_259_Athena_Commando_M_StreetOps, 1500
-Pickaxe_ID_179_StarWand, 1000
-Glider_ID_092_StreetOps, 1000
-CID_260_Athena_Commando_F_StreetOps, 1500
-Wrap_199_AgentAce, 500
-EID_IceKing, 1000
+CID_197_Athena_Commando_F_Biker, 1200
+Pickaxe_ID_014_WinterCamo, 500
+Glider_ID_095_Witch, 800
+CID_414_Athena_Commando_F_MilitaryFashion, 800
+Pickaxe_ID_140_StreetGoth, 800
+EID_Ringer_Beyond, 1000
