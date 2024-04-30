@@ -1,6 +1,6 @@
 CID_650_Athena_Commando_F_HolidayPJ_B, 800
-AthenaPickaxe:Pickaxe_ID_140_StreetGoth, 500
-AthenaCharacter:CID_715_Athena_Commando_F_TwinDark, 1200
+Pickaxe_ID_140_StreetGoth, 500
+CID_715_Athena_Commando_F_TwinDark, 1200
 na
 na
 na
